@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@lottiefiles/lottie-player": "^1.6.0",
+    "typed.js": "^2.0.12"
+  }
+}
